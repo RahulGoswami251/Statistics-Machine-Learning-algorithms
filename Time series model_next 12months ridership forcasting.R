@@ -4,7 +4,7 @@
 install.packages("Metrics")
 library(Metrics)
 
-#Load the Amtrack data
+#Load the Amtrak data
 Amtrak<-read.csv('E:\\2nd May Data Science Class\\Excel R Data Science Course_Class work_2nd_may_2020\\All Models In R code\\Forcasting Analysis\\Amtrak.csv') 
 
 #Seasonality 12 months
